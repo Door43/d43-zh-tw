@@ -1,1 +1,1 @@
-<nspages zh-tw:obs:notes:frames -sortID -title -exclude:home -nbCol=3 -textPages="List of all English OBS Notes Pages:">
+<nspages zh-tw:obs:notes:frames -sortID -title -exclude:home -nbCol=3 -textPages="List of all Chinese (Traditional) OBS Notes Pages:">
