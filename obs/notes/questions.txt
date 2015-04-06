@@ -1,1 +1,1 @@
-<nspages zh-tw:obs:notes:questions -title -exclude:home -nbCol=3 -textPages="List of all OBS Questions Pages:">
+<nspages zh-tw:obs:notes:questions -title -exclude:home -nbCol=3 -textPages="List of all OBS Chinese (Traditional) Questions Pages:">
