@@ -1,16 +1,19 @@
 ====== Ahab 雅哈 ======
 
-===== Facts: =====
+===== Facts: 事例 =====
 
 Ahab was a very evil king who ruled over the northern kingdom of Israel.
 
+亚哈是一个非常邪恶的君王， 他统制着以色列的北部王国。
+
   * King Ahab was wicked and encouraged the people of the kingdom of Israel to worship false gods.
+  * 亚哈王非常邪恶，并怂恿以色列的人民敬拜假神。
   * The prophet Elijah confronted Ahab and told him that there would be a severe drought for three and a half years as a punishment for the sins that Ahab caused Israel to commit.
+  * 先知以利亚面对亚哈，告诉他将有三年半的严重旱灾，作为对引导以色列犯下的罪行的惩罚。
   * Ahab had 450 prophets to the false god named Baal. Elijah challenged those prophets and proved that Yahweh is the only true God.
+  * 亚哈有450个都信一个名叫巴力的假神的先知。以利亚向这些先知提出挑战，证明耶和华是唯一的真神。
 
-
-[See also: **[[zh-tw:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel]]**, **[[zh-tw:obs:notes:key-terms:Elijah|Elijah]]**, **[[zh-tw:obs:notes:key-terms:baal|Baal]]**, **[[zh-tw:obs:notes:key-terms:yahweh|Yahweh]]**]
-
+[See also: **[[:zh-tw:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel]]**, **[[:zh-tw:obs:notes:key-terms:elijah|Elijah]]**, **[[:zh-tw:obs:notes:key-terms:baal|Baal]]**, **[[:zh-tw:obs:notes:key-terms:yahweh|Yahweh]]**] [也参见： 以色列王国，巴力，耶和华]
 
 ===== Examples from the Bible stories: =====
 
