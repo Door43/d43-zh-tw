@@ -15,11 +15,12 @@ Ahab was a very evil king who ruled over the northern kingdom of Israel.
 
 [See also: **[[:zh-tw:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel]]**, **[[:zh-tw:obs:notes:key-terms:elijah|Elijah]]**, **[[:zh-tw:obs:notes:key-terms:baal|Baal]]**, **[[:zh-tw:obs:notes:key-terms:yahweh|Yahweh]]**] [也参见： 以色列王国，巴力，耶和华]
 
-===== Examples from the Bible stories: =====
+===== Examples from the Bible stories: 来自圣经里的例子 =====
 
-  ***[[:zh-tw:obs:notes:frames:19-02|[19-02]]]** Elijah was a prophet when **Ahab** was king over the kingdom of Israel. **Ahab** was an evil man who encouraged people to worship a false god named Baal.
-  ***[[:zh-tw:obs:notes:frames:19-03|[19-03]]]** **Ahab** and his army looked for Elijah, but they could not find him.
-  ***[[:zh-tw:obs:notes:frames:19-05|[19-05]]]** After three and a half years, God told Elijah to return to the kingdom of Israel and speak with **Ahab** because he was going to send rain again.
-
-
+  * **[[:zh-tw:obs:notes:frames:19-02|[19-02]]]** Elijah was a prophet when **Ahab**  was king over the kingdom of Israel. **Ahab**  was an evil man who encouraged people to worship a false god named Baal.
+  * [19-02] 以利亚在亚哈是以色列王国的王时就是先知了。亚哈是个邪恶的人，怂恿人去敬拜一个叫巴力的假神。
+  * **[[:zh-tw:obs:notes:frames:19-03|[19-03]]]****Ahab**  and his army looked for Elijah, but they could not find him.
+  * [19-03] 亚哈和他的军队曾寻找以利亚， 但是他们却未能找到他。
+  * **[[:zh-tw:obs:notes:frames:19-05|[19-05]]]** After three and a half years, God told Elijah to return to the kingdom of Israel and speak with **Ahab**  because he was going to send rain again.
+  * [19-05] 三年半后，神告诉以利亚去回到以色列国王，和亚哈说，他要再次去送雨到那里。
 ~~DISCUSSION:off~~
