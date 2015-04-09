@@ -1,21 +1,16 @@
 ===== Disobedience [02-05] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-05.jpg?nolink&}}
 
 The woman saw that the fruit was beautiful and looked delicious. She also wanted to be **wise**, so she picked some of the fruit and ate it. Then she gave some to her husband, **who was with her**, and he ate it, too.
 
+女人見那果子又好看又好吃，就很想成為一個有智慧的人。於是就摘下果子來吃了。又給了和她在一起的丈夫，他也吃了。
+
 ===== Important Terms: =====
 
-
   * **[[:zh-tw:obs:notes:key-terms:wise|wise]]**
-
-
 ==== Translation Notes: ====
 
-
-  * **wise** - The woman wanted to have insight and understanding like the snake seemed to have, and like God has.
-  * **who was with her** - This is important information because it shows that the man was present when the woman made the decision to eat the fruit.
-
-
+  * **wise**  - The woman wanted to have insight and understanding like the snake seemed to have, and like God has.
+  * **who was with her**  - This is important information because it shows that the man was present when the woman made the decision to eat the fruit.
 **[[:zh-tw:obs:notes:frames:02-04|<<]] | [[:zh-tw:obs:notes:02|Up]] | [[:zh-tw:obs:notes:frames:02-06|>>]]**
