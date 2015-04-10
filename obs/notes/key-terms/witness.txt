@@ -7,7 +7,7 @@
 
 A witness is someone who has seen or heard something happen.
 
-見證人就是那位對當時所發生的案情的目擊者或聽聞者。
+見證人是指那位對所發生的案情的目擊者或聽聞者。
 
   * During a trial, witnesses tell what they have seen or heard. What the witnesses say helps the judge to decide if the person being accused is guilty or innocent.
   * 見證人會在審判時把他們所看到的或聽到的案情都說出來。他們的證詞將是法官判定被告有罪或無罪的依據。
