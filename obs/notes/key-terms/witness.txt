@@ -7,10 +7,10 @@
 
 A witness is someone who has seen or heard something happen.
 
-見證人是指那位在案發當時的目擊者或聽聞者。
+見證人是指那位在案情發生時的目擊者或聽聞者。
 
   * During a trial, witnesses tell what they have seen or heard. What the witnesses say helps the judge to decide if the person being accused is guilty or innocent.
-  * 在審判的當時，那些見證人都會把他們所看到的或聽到的案情說出來。他們的證詞會幫助法官被告有罪或無罪的參考。
+  * 在審判的當時，那些見證人都會把他們所看到的或聽到的案情說出來。他們所說的證詞會幫助法官作出對被告是否有罪或無罪的判決。
   * Witnesses are expected to tell the truth about what they have seen or heard.
   * 見證人應該把所看到或聽到的案情真相透露出來。
   * A witness who does not tell the truth about what he has seen or heard is called a, "false witness."
@@ -29,7 +29,7 @@ A witness is someone who has seen or heard something happen.
   * **[[:zh-tw:obs:notes:frames:42-08|[42-08]]]**"It was also written in the scriptures that my disciples will proclaim that everyone should repent in order to receive forgiveness for their sins. They will do this starting in Jerusalem, and then go to all people groups everywhere. You are **witnesses**  of these things."
   * “經上記著說，我的門徒要去傳講人人都該悔改與使罪得赦的道。他們要從耶路撒冷傳起，直傳到世上的萬民去。你們就是這些事的見證”。
   * **[[:zh-tw:obs:notes:frames:43-07|[43-07]]]**"We are **witnesses**  to the fact that God raised Jesus to life again."
-  *
+  * “這位耶穌，神已經使他復活了，我們都是這事的見證人。”
 ~~DISCUSSION:off~~
 
 ㄕㄣ
