@@ -1,27 +1,31 @@
 ====== worship ======
 
-
+**敬拜**
 ===== Definition: =====
+
+定義：
 
 "To worship" means to honor, praise and obey someone, especially God.
 
-  * We worship God when we serve and honor him, by praising him and obeying him.
-  * When the Israelites worshiped God, it often included sacrificing an animal on an altar. 
-  * Some people worship false gods.
- 
-[See also: **[[zh-tw:obs:notes:key-terms:sacrifice|sacrifice]]**, **[[zh-tw:obs:notes:key-terms:praise|praise]]**]
+敬拜是表示對某人的尊敬，讚美和順服，特別是針對神。
 
-  
+  * We worship God when we serve and honor him, by praising him and obeying him.
+  * 當我們藉著讚美和順服來事奉他和尊敬他的時候，就是敬拜神。
+  * When the Israelites worshiped God, it often included sacrificing an animal on an altar.
+  * 當以色列人敬拜神的時候，通常是在祭壇上獻上一隻動物。
+  * Some people worship false gods.
+  * 有些人敬拜假神。
+
+[See also: **[[:zh-tw:obs:notes:key-terms:sacrifice|sacrifice]]**, **[[:zh-tw:obs:notes:key-terms:praise|praise]]**]
+
 ===== Examples from the Bible stories: =====
 
-  ***[[:zh-tw:obs:notes:frames:13-04|[13-04]]]**  Then God gave them the covenant and said, "I am Yahweh, your God, who saved you from slavery in Egypt. Do not **worship** other gods."
-  ***[[:zh-tw:obs:notes:frames:14-02|[14-02]]]**  The Canaanites did not **worship** or obey God. They **worshiped** false gods and did many evil things.
-  ***[[:zh-tw:obs:notes:frames:17-06|[17-06]]]**  David wanted to build a temple where all the Israelites could **worship** God and offer him sacrifices.
-  ***[[:zh-tw:obs:notes:frames:18-12|[18-12]]]**  All of the kings and most of the people of the kingdom of Israel **worshiped** idols.
-  ***[[:zh-tw:obs:notes:frames:25-07|[25-07]]]**  Jesus replied, "Get away from me, Satan! In God's word he commands his people, '**Worship** only the Lord your God and only serve him.'"
-  ***[[:zh-tw:obs:notes:frames:26-02|[26-02]]]**  On the Sabbath, he (Jesus) went to the place of **worship**.
-  ***[[:zh-tw:obs:notes:frames:47-01|[47-01]]]**  There they met a woman named Lydia who was a merchant. She loved and **worshiped** God.
-  ***[[:zh-tw:obs:notes:frames:49-18|[49-18]]]**  God tells you to pray, to study his word, to **worship** him with other Christians, and to tell others what he has done for you. 
-
-
+  * **[[:zh-tw:obs:notes:frames:13-04|[13-04]]]** Then God gave them the covenant and said, "I am Yahweh, your God, who saved you from slavery in Egypt. Do not **worship**  other gods."
+  * **[[:zh-tw:obs:notes:frames:14-02|[14-02]]]** The Canaanites did not **worship**  or obey God. They **worshiped**  false gods and did many evil things.
+  * **[[:zh-tw:obs:notes:frames:17-06|[17-06]]]** David wanted to build a temple where all the Israelites could **worship**  God and offer him sacrifices.
+  * **[[:zh-tw:obs:notes:frames:18-12|[18-12]]]** All of the kings and most of the people of the kingdom of Israel **worshiped**  idols.
+  * **[[:zh-tw:obs:notes:frames:25-07|[25-07]]]** Jesus replied, "Get away from me, Satan! In God's word he commands his people, '**Worship**  only the Lord your God and only serve him.'"
+  * **[[:zh-tw:obs:notes:frames:26-02|[26-02]]]** On the Sabbath, he (Jesus) went to the place of **worship**.
+  * **[[:zh-tw:obs:notes:frames:47-01|[47-01]]]** There they met a woman named Lydia who was a merchant. She loved and **worshiped**  God.
+  * **[[:zh-tw:obs:notes:frames:49-18|[49-18]]]** God tells you to pray, to study his word, to **worship**  him with other Christians, and to tell others what he has done for you.
 ~~DISCUSSION:off~~
