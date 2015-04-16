@@ -10,7 +10,7 @@ A witness is someone who has seen or heard something happen.
 見證人是指那位在案發當時的目擊者或聽聞者。
 
   * During a trial, witnesses tell what they have seen or heard. What the witnesses say helps the judge to decide if the person being accused is guilty or innocent.
-  * 當審判時，見證人都會把他們所看到的或聽到的案情說出來。而他們的證詞會幫助法官對被告有罪或無罪所作的判決。
+  * 當審判時，見證人都會把他們所看到的或聽到的案情說出來。他們的證詞有助於法官對被告有罪或無罪所作的判決。
   * Witnesses are expected to tell the truth about what they have seen or heard.
   * 見證人應該把所看到的或聽到的案情的真相透露出來。
   * A witness who does not tell the truth about what he has seen or heard is called a, "false witness."
@@ -29,8 +29,8 @@ A witness is someone who has seen or heard something happen.
   * **[[:zh-tw:obs:notes:frames:39-04|[39-04]]]** The high priest tore his clothes in anger and shouted, "We do not need any more **witnesses**. You have heard him say that he is the Son of God. What is your judgment?"
   * 【39－04】於是大祭司就撕開自己的衣服，生氣地喊著說：“現在，我們再也不需要任何**見證人**  了。你們剛才都已經聽見他說他就是神的兒子。你們還有甚麼意見？”
   * **[[:zh-tw:obs:notes:frames:42-08|[42-08]]]**"It was also written in the scriptures that my disciples will proclaim that everyone should repent in order to receive forgiveness for their sins. They will do this starting in Jerusalem, and then go to all people groups everywhere. You are **witnesses**  of these things."
-  * 【42－08】“經上記著說，我的門徒要去傳講人人都該悔改與使罪得赦的道。他們要從耶路撒冷傳起，直傳到世上的萬民去。你們就是這些事的**見證**”。
+  * 【42－08】“經上記著說，我的門徒要去傳講人人都該悔改使罪得赦的道。他們要從耶路撒冷傳起，直傳到世上的萬民去。你們就是這些事的**見證**”。
   * **[[:zh-tw:obs:notes:frames:43-07|[43-07]]]**"We are **witnesses**  to the fact that God raised Jesus to life again."
-  * 【43－07】“這位耶穌，神已經使他復活了，我們都是這件事實的**見證人**  。”
+  * 【43－07】“這位耶穌，神已經使他復活了，我們都是這個真理的**見證人**  。”
 
 ~~DISCUSSION:off~~
