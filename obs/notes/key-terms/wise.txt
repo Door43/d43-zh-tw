@@ -1,8 +1,8 @@
-====== wise有智慧的 ======
+====== wise<font 18px/inherit;;inherit;;inherit>有智慧的</font>  ======
 
-====== <font 11px/inherit;;inherit;;inherit>** 有智慧的 **</font>  ======
+====== <font 14px/inherit;;inherit;;inherit>有智慧的</font>     ======
 
-====== (wise, wisdom, wisely) ======
+====== <font 18px/inherit;;inherit;;inherit>(wise, wisdom, wisely)</font>  ======
 
 **（有智慧的，智慧，有智慧地）**
 ===== Definition: =====
