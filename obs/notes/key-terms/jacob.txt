@@ -1,27 +1,33 @@
 ====== Jacob ======
 
+雅各
 
 ===== Facts: =====
 
+定義：
+
 Jacob was the second of the twin sons that were born to Isaac and Rebekah. The first twin born was Esau.
 
-    * Jacob's name means "deceiver" or "trickster." 
-    * Jacob was clever and deceptive. He found ways to take both the firstborn inheritance rights and the blessing from his older brother, Esau.
-    * Esau was angry and planned to kill him, so Jacob left his homeland. But he later returned and lived peacefully with his brother.
-    * God changes Jacob's name to Israel, which means, "He struggles with God." 
-    * God kept his covenant to Abraham and his descendants through Abraham's son, Isaac, and Isaac's son, Jacob.
-    * Jacob had twelve sons. Their descendants became the twelve tribes of Israel.
+雅各是以撒和利百加所生的双生子的次子。以掃是這双生子的長子。
 
-[See also: **[[zh-tw:obs:notes:key-terms:isaac|Isaac]]**, **[[zh-tw:obs:notes:key-terms:rebekah|Rebekah]]**, **[[zh-tw:obs:notes:key-terms:esau|Esau]]**, **[[zh-tw:obs:notes:key-terms:israel|Israel]]**]
+  * Jacob's name means "deceiver" or "trickster."
+  * 雅各名字的意思就是欺騙者或詐欺者。
+  * Jacob was clever and deceptive. He found ways to take both the firstborn inheritance rights and the blessing from his older brother, Esau.
+  * 雅各即聰明又虛假。他找到可以從他哥哥，以掃，那裡騙取長子繼承權和祝福的方法。
+  * Esau was angry and planned to kill him, so Jacob left his homeland. But he later returned and lived peacefully with his brother.
+  * 以掃相當生氣，打算殺了他，可是雅各已經從他的家鄉逃走了。不過，後來他卻又回到家鄉與他的哥哥和平同居。
+  * God changes Jacob's name to Israel, which means, "He struggles with God."
+  * 神把雅各的名字改叫以撒，它的意思是，“雅各與神博鬥”。
+  * God kept his covenant to Abraham and his descendants through Abraham's son, Isaac, and Isaac's son, Jacob.
+  * Jacob had twelve sons. Their descendants became the twelve tribes of Israel.
 
+[See also: **[[:zh-tw:obs:notes:key-terms:isaac|Isaac]]**, **[[:zh-tw:obs:notes:key-terms:rebekah|Rebekah]]**, **[[:zh-tw:obs:notes:key-terms:esau|Esau]]**, **[[:zh-tw:obs:notes:key-terms:israel|Israel]]**]
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:zh-tw:obs:notes:frames:07-01|[07-01]]]** As the boys grew up, Rebekah loved **Jacob**, but Isaac loved Esau. **Jacob** loved to stay at home, but Esau loved to hunt.
-  ***[[:zh-tw:obs:notes:frames:07-07|[07-07]]]**  **Jacob** lived there for many years, and during that time he married and had twelve sons and a daughter. God made him very wealthy.
-  ***[[:zh-tw:obs:notes:frames:07-08|[07-08]]]** After twenty years away from his home in Canaan, **Jacob** returned there with his family, his servants, and all his herds of animals.
-  ***[[:zh-tw:obs:notes:frames:07-10|[07-10]]]** The covenant promises God had promised to Abraham and then to Isaac now passed on to **Jacob**.
-  ***[[:zh-tw:obs:notes:frames:08-01|[08-01]]]** Many years later, when **Jacob** was an old man, he sent his favorite son, Joseph, to check on his brothers who were taking care of the herds.
-
-
+  * **[[:zh-tw:obs:notes:frames:07-01|[07-01]]]** As the boys grew up, Rebekah loved **Jacob**, but Isaac loved Esau. **Jacob**  loved to stay at home, but Esau loved to hunt.
+  * **[[:zh-tw:obs:notes:frames:07-07|[07-07]]]****Jacob**  lived there for many years, and during that time he married and had twelve sons and a daughter. God made him very wealthy.
+  * **[[:zh-tw:obs:notes:frames:07-08|[07-08]]]** After twenty years away from his home in Canaan, **Jacob**  returned there with his family, his servants, and all his herds of animals.
+  * **[[:zh-tw:obs:notes:frames:07-10|[07-10]]]** The covenant promises God had promised to Abraham and then to Isaac now passed on to **Jacob**.
+  * **[[:zh-tw:obs:notes:frames:08-01|[08-01]]]** Many years later, when **Jacob**  was an old man, he sent his favorite son, Joseph, to check on his brothers who were taking care of the herds.
 ~~DISCUSSION:off~~
