@@ -1,6 +1,8 @@
 ====== Ahab 亚哈 F ======
 
-===== Facts: 事例 =====
+===== Facts: =====
+
+事实依据：
 
 Ahab was a very evil king who ruled over the northern kingdom of Israel.
 
